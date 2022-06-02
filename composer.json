@@ -1,0 +1,7 @@
+{
+    "require": {
+        "izniburak/pdox": "^1.5",
+        "rakit/validation": "^1.4",
+        "dompdf/dompdf": "^1.0"
+    }
+}
